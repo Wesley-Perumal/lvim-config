@@ -1,0 +1,1 @@
+lvim.plugins = { "michaelb/sniprun" }
